@@ -1,0 +1,65 @@
+body {
+    background: url(../img/dribble.png);
+}
+
+body h1 {
+    color:black;
+    background-color: white;
+    font-size:40px; 
+    display: inline; 
+    position:relative; 
+    left: 50px;
+    top:200px; 
+}
+
+body h2 {
+    color:black;
+    background-color: white;
+    font-size:40px; 
+    display: inline; 
+    position:relative; 
+    left: -104px;
+    top:246px; 
+}
+
+body div:nth-of-type(1){
+    color:tomato;
+    width:100px; 
+    font-size:20px; 
+    display:inline-block;
+    position: relative;
+    left:-236px;
+    top:342px; 
+    
+}
+
+body div:nth-of-type(2){
+    color:darkgreen;
+    width:100px; 
+    font-size:20px; 
+    position:relative; 
+    left:62px;
+    top:336px;
+}
+
+body div:nth-of-type(3){
+    color:violet;
+    width:100px; 
+    font-size:20px; 
+    position:relative; 
+    left:63px;
+    top:334px;
+}
+
+body div:nth-of-type(4){
+    background-color:orange;
+    border:none; 
+    color:black; 
+    display:inline-block; 
+    padding: 15px 20px;
+    font-weight: bold;
+    border-radius:50%;
+    position:relative;
+    left:46px;
+    top:342px; 
+}
